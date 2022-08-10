@@ -445,7 +445,7 @@ p[data-width="wide"] {
   grid-column: 1 / 2;
 }
 
-@media (max-width: 30em) {
+@media (max-width: 35em) {
   .numbered-items div::after {
     --bg: var(--clr-accent-100);
     content: "";
